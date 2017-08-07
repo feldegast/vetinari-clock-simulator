@@ -1,6 +1,6 @@
 # Vetinari Clock Simulator
 
-[A web page](https://roryokane.github.io/vetinari-clock-simulator/) that plays a distractingly irregular tick-tock sound, mimicking Vetinari’s clock from Terry Pratchett’s [<i>Discworld</i>](http://en.wikipedia.org/wiki/Discworld) series.
+[A web page](https://feldegast.github.io/vetinari-clock-simulator/) that plays a distractingly irregular tick-tock sound, mimicking Vetinari’s clock from Terry Pratchett’s [<i>Discworld</i>](http://en.wikipedia.org/wiki/Discworld) series.
 
 > The clock in Lord Vetinari’s anteroom didn’t tick right. Sometimes the tick was just a fraction late, sometimes the tock was early. Occasionally, one or the other didn’t happen at all. This wasn’t really noticeable until you’d been in there for five minutes, by which time small but significant parts of the brain were going crazy.
 
